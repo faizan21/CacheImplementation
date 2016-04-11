@@ -1,7 +1,7 @@
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/staticcache/StaticCache.java
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/fifo/FifoCache.java
-/home/mcauser/new/CacheFramework/src/main/java/CacheMainMethods.java
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/lrucache/LRUCache.java
-/home/mcauser/new/CacheFramework/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/lrucache/LRUCache.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/fifo/FifoCache.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/staticcache/StaticCache.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/home/jenkins/.jenkins/jobs/Cccc/workspace/src/main/java/CacheMainMethods.java
